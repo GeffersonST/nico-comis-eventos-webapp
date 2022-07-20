@@ -246,7 +246,7 @@ body {
   opacity: 0.3;
   position: fixed;
   bottom: 20px;
-  right: 40px;
+  right: 100px;
   display: none;
   background: url(../images/icon_top.png) no-repeat;
 }
